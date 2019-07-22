@@ -1,2 +1,3 @@
-# JavaScript
+# JavaScript pure
 study
+
